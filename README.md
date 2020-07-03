@@ -1,4 +1,4 @@
-# Kidnapped Vehicle Project
+# Kidnapped Vehicle
 
 Self-Driving Car Engineer Nanodegree Program
 
